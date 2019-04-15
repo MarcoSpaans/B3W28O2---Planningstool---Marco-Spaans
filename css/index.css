@@ -1,0 +1,35 @@
+html {
+  font-family: sans-serif;
+  background-color: #cc33ff;
+}
+
+table {
+  border: solid 1.5px black;
+  background-color: #cc66ff;
+}
+
+#add {
+  padding: 12px;
+  background-color: lightgreen;
+  border: solid 1.5px green;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+
+#add:hover {
+  box-shadow: 4px 4px 7px #8600b3;
+}
+
+#add, td a {
+  text-decoration: none;
+}
+
+.center {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}

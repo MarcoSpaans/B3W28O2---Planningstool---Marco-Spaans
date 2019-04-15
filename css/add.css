@@ -1,0 +1,29 @@
+html {
+  font-family: sans-serif;
+  background-color: #cc33ff;
+}
+
+#add {
+  padding: 10px 20px;
+  border-radius: 15px;
+  transition: 0.5s;
+  cursor: pointer;
+  background-color: lightgreen;
+  border: solid 1.5px green;
+}
+
+#add:hover {
+  box-shadow: 4px 4px 7px #8600b3;
+}
+
+.input {
+  background-color: #e6b3ff;
+  border: solid 1.5px #ac00e6;
+}
+
+.input:focus {
+  background-color: #cc66ff;
+  border: solid 1.5px #730099;
+}
+
+.

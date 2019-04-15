@@ -1,0 +1,25 @@
+html {
+  font-family: sans-serif;
+  background-color: #cc33ff;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 15px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+#yes {
+  background-color: lightgreen;
+  border: solid 1.5px green;
+}
+
+#no {
+  background-color: red;
+  border: solid 1.5px darkred;
+}
+
+button:hover {
+  box-shadow: 4px 4px 7px #a6a6a6;
+}
